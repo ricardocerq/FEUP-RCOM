@@ -4,4 +4,5 @@ Project 1 - A simple communications protocol was developed using a Stop-And-Wait
 Then, the application used this protocol to transfer a file between the computers. The operation is resilient to disconnections and noise in the communication.
 
 Language: C
+
 Technologies: UNIX environment
